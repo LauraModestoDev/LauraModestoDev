@@ -1,4 +1,4 @@
-# Olá, me chamo SeuNomeAqui ! 
+# Olá, me chamo Laura Modesto ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estudando
